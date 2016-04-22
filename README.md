@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This is an expample on how to use git and github
+
 ##deployment
 
 ## Purpose
