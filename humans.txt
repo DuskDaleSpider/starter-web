@@ -4,7 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+	Dakota Clark Developer @DuskDaleSpider
+	
 # THANKS
 
     <name>
