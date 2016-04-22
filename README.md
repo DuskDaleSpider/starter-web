@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+Adding a line for giggles
+
 ## Introduction
 
 This is an expample on how to use git and github
