@@ -16,3 +16,7 @@ Then go to the stuff
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+### Copyright
+
+2016 Dakota 
