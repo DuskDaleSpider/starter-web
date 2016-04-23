@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 Adding a line for giggles, more changes from myfeature branch
 
+Doing fix
 ## Introduction
 
 This is an expample on how to use git and github
